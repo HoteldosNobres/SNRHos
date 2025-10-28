@@ -7,7 +7,10 @@ namespace SNRHos.FNRH.Hospedagem
     public class RegistrarRetorno
     {
         [JsonProperty("dados")]
-        public Dados Dados { get; set; }
+        public Dados? Dados { get; set; }
+
+        [JsonProperty("message")]
+        public String Message { get; set; }
     }
 
     public class Dados
