@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\snrhos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\snrhos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\snrhos.nuspec||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\snrhos.nuspec||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\snrhos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\snrhos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\soap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\soap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\snrhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\snrhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\fnrh_digital\\hospedes\\hospede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\fnrh_digital\\hospedes\\hospede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\fnrh_digital\\reservas\\hospedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\fnrh_digital\\reservas\\hospedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\fnrh_digital\\reservas\\vicularhospede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\fnrh_digital\\reservas\\vicularhospede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\nuget.config",
+              "RelativeDocumentMoniker": "SNRHos\\nuget.config",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\nuget.config",
+              "RelativeToolTip": "SNRHos\\nuget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-31T21:54:29.383Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
@@ -65,132 +50,33 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LICENSE",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\LICENSE",
-              "RelativeDocumentMoniker": "SNRHos\\LICENSE",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\LICENSE",
-              "RelativeToolTip": "SNRHos\\LICENSE",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-31T21:21:08.136Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SNRHos",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SNRHos.csproj",
-              "RelativeDocumentMoniker": "SNRHos\\SNRHos.csproj",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SNRHos.csproj",
-              "RelativeToolTip": "SNRHos\\SNRHos.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-31T21:18:45.394Z",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-31T21:40:13.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SNRHos.nuspec",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SNRHos.nuspec",
-              "RelativeDocumentMoniker": "SNRHos\\SNRHos.nuspec",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SNRHos.nuspec",
-              "RelativeToolTip": "SNRHos\\SNRHos.nuspec",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-31T21:17:49.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SNRHos",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SNRHos.csproj",
-              "RelativeDocumentMoniker": "SNRHos\\SNRHos.csproj",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SNRHos.csproj",
-              "RelativeToolTip": "SNRHos\\SNRHos.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-31T21:05:00.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SOAP.cs",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SOAP.cs",
-              "RelativeDocumentMoniker": "SNRHos\\SOAP.cs",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SOAP.cs",
-              "RelativeToolTip": "SNRHos\\SOAP.cs",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\README.md",
+              "RelativeDocumentMoniker": "SNRHos\\README.md",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\README.md",
+              "RelativeToolTip": "SNRHos\\README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T21:04:56.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SNRHos.cs",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SNRHos.cs",
-              "RelativeDocumentMoniker": "SNRHos\\SNRHos.cs",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SNRHos.cs",
-              "RelativeToolTip": "SNRHos\\SNRHos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T21:04:54.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "nuget.config",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\nuget.config",
-              "RelativeDocumentMoniker": "SNRHos\\nuget.config",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\nuget.config",
-              "RelativeToolTip": "SNRHos\\nuget.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-31T21:04:45.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Hospede.cs",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\FNRH_DIGITAL\\Hospedes\\Hospede.cs",
-              "RelativeDocumentMoniker": "SNRHos\\FNRH_DIGITAL\\Hospedes\\Hospede.cs",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\FNRH_DIGITAL\\Hospedes\\Hospede.cs",
-              "RelativeToolTip": "SNRHos\\FNRH_DIGITAL\\Hospedes\\Hospede.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T22:26:57.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Hospedes.cs",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\FNRH_DIGITAL\\Reservas\\Hospedes.cs",
-              "RelativeDocumentMoniker": "SNRHos\\FNRH_DIGITAL\\Reservas\\Hospedes.cs",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\FNRH_DIGITAL\\Reservas\\Hospedes.cs",
-              "RelativeToolTip": "SNRHos\\FNRH_DIGITAL\\Reservas\\Hospedes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwDkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T22:20:37.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VicularHospede.cs",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\FNRH_DIGITAL\\Reservas\\VicularHospede.cs",
-              "RelativeDocumentMoniker": "SNRHos\\FNRH_DIGITAL\\Reservas\\VicularHospede.cs",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\FNRH_DIGITAL\\Reservas\\VicularHospede.cs",
-              "RelativeToolTip": "SNRHos\\FNRH_DIGITAL\\Reservas\\VicularHospede.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T22:19:36.338Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-31T21:36:08.488Z",
               "EditorCaption": ""
             }
           ]
