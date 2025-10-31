@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\snrhos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\snrhos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|c:\\users\\fabio\\source\\repos\\hoteldosnobres\\snrhos\\snrhos\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{C3FFA8E8-DBC3-4198-9474-724034DAD4EF}|SNRHos\\SNRHos.csproj|solutionrelative:snrhos\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{5311ED69-4283-4996-BB2E-6B71B6CF8222}|Github{5311ED69-4283-4996-BB2E-6B71B6CF8222}|C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\CODE_OF_CONDUCT.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5311ED69-4283-4996-BB2E-6B71B6CF8222}|Github{5311ED69-4283-4996-BB2E-6B71B6CF8222}|solutionrelative:CODE_OF_CONDUCT.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "nuget.config",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\nuget.config",
-              "RelativeDocumentMoniker": "SNRHos\\nuget.config",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\nuget.config",
-              "RelativeToolTip": "SNRHos\\nuget.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-31T21:54:29.383Z",
+              "Title": "SNRHos",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SNRHos.csproj",
+              "RelativeDocumentMoniker": "SNRHos\\SNRHos.csproj",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\SNRHos.csproj",
+              "RelativeToolTip": "SNRHos\\SNRHos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T21:59:38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CODE_OF_CONDUCT.md",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\CODE_OF_CONDUCT.md",
+              "RelativeDocumentMoniker": "CODE_OF_CONDUCT.md",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\CODE_OF_CONDUCT.md",
+              "RelativeToolTip": "CODE_OF_CONDUCT.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-31T21:59:00.396Z",
               "EditorCaption": ""
             },
             {
@@ -52,32 +60,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-31T21:40:13.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\README.md",
-              "RelativeDocumentMoniker": "SNRHos\\README.md",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\HoteldosNobres\\SNRHos\\SNRHos\\README.md",
-              "RelativeToolTip": "SNRHos\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-31T21:36:08.488Z",
-              "EditorCaption": ""
             }
           ]
         }
